@@ -3,7 +3,7 @@
  
 ![Captura de Tela (45)](https://github.com/WV-Wesley-Victor/Projeto-Escolha-seu-Plano/assets/137107062/0b543424-da3f-4578-8829-3645332c6088)
  <p align="center">
-  <a href="https://wv-wesley-victor.github.io/Projeto-Lista-de-Contatos/" target="_blank">Clique aqui para visitar o projeto</a>
+  <a href="https://wv-wesley-victor.github.io/Projeto-Escolha-seu-Plano/" target="_blank">Clique aqui para visitar o projeto</a>
 </p>
 
 ## Descrição
