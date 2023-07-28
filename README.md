@@ -1,0 +1,2 @@
+# Projeto Escolha seu Plano
+ Este é um repositório no GitHub que contém um projeto prático de uma página para escolha de planos de serviços, criada com HTML e CSS. O projeto tem como objetivo fornecer uma interface interativa para os usuários selecionarem diferentes opções de planos disponíveis. Aprenda a estruturar o conteúdo usando HTML e estilizar o layout com CSS para criar uma página atraente e intuitiva para seus usuários.
