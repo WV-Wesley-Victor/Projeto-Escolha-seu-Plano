@@ -26,6 +26,18 @@ Espero que este projeto seja útil para você!
 * Estilização CSS: Explore técnicas de estilização CSS para dar vida ao projeto, aplicando cores, tipografia e espaçamento adequados para melhorar a apresentação visual.
 * Interação do Usuário: Adicione interatividade através de efeitos hover e transições, proporcionando uma experiência de usuário mais agradável ao selecionar os planos.
 
+## Fontes de Pesquisa
+* W3Schools: o W3Schools é um recurso valioso para aprender a criar elementos de interface, como botões de seleção de planos e layouts responsivos: https://www.w3schools.com/
+* MDN Web Docs: Mantido pela Mozilla, o MDN fornece documentação detalhada sobre HTML, CSS e JavaScript, que são essenciais para criar páginas de seleção de planos interativas: https://developer.mozilla.org/pt-BR/
+* Codecademy: Este site oferece cursos interativos de desenvolvimento web, incluindo HTML, CSS e design responsivo, fundamentais para criar uma página de escolha de planos atraente:  https://www.codecademy.com/
+* YouTube: Busque por tutoriais em vídeo sobre "design de página de seleção de planos" para obter orientações visuais e exemplos práticos.
+* Pinterest: Use o Pinterest para encontrar inspiração visual e ideias de design para a página de escolha de planos: https://br.pinterest.com/
+* Behance e Dribbble: Explore esses sites para ver exemplos reais de designs de interfaces de usuário criativos e inovadores que podem ser adaptados para sua página de planos:
+ Behance:  https://www.behance.net/
+ Dribbble: https://dribbble.com/
+* Frameworks e Bibliotecas: Considere utilizar frameworks como o Bootstrap ou o Materialize para criar rapidamente layouts de página responsivos e botões de seleção elegantes.
+* Livros de Design de Interface: "Don't Make Me Think" de Steve Krug e "The Design of Everyday Things" de Don Norman são leituras recomendadas para entender os princípios de design de interfaces eficazes.
+
 ## Instruções de Instalação (caso aplicável)
 Este projeto é um exemplo funcional disponibilizado online, não requerendo instalação local. Basta acessar o URL fornecido e explorar o projeto.
 
